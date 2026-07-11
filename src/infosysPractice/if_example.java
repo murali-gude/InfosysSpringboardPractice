@@ -1,3 +1,4 @@
+package infosysPractice;
 public class if_example {
 	public static void main(String[] args) {
 		String customerType = "Regular";
