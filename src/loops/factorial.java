@@ -16,9 +16,6 @@ public class factorial {
 	        }
 	        while(i<=num) ;
 	        	
-	        	
-	        	
-	        
 
 	        System.out.println("Factorial = " + fact);
 	    }
