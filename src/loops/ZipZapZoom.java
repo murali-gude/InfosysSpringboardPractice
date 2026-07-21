@@ -3,7 +3,7 @@ package loops;
 public class ZipZapZoom {
 
 	public static void main(String[] args) {
-		int number = 15;
+		int number = 10;
 
         if (number % 3 == 0 && number % 5 == 0) {
             System.out.println("Zoom");
